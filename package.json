@@ -1,0 +1,14 @@
+{
+  "name": "cucumber",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "dependencies": {
+    "@theprelude/sdk": "^0.9.57",
+    "node-fetch": "^3.3.1"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.1.0"
+  }
+}
